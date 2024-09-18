@@ -60,6 +60,7 @@ Awesome Binary Analysis Automation is an amazing list for people who work in tak
 - [Echo](https://github.com/Washi1337/Echo) - Static analysis, symbolic execution, and emulation framework.
 - [LIEF](https://lief.quarkslab.com/) - Parses, modifies, and abstracts binary formats.
 - [☆ Monocle](https://github.com/user1342/Monocle) - Large Language Model For Binary Analysis Search.
+- [Owi](https://github.com/OCamlPro/owi) - Parallel (dynamic) symbolic execution engine built on WebAssembly (Wasm). ([paper](https://hal.science/hal-04627413))
 
 
 ## Automated Vulnerability Detection
